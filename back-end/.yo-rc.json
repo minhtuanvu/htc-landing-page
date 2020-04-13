@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "vn.net.htc",
+      "nativeLanguage": "vi"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "landingPage",
+    "packageName": "vn.net.htc",
+    "packageFolder": "vn/net/htc",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mssql",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTYyOWRiZmI0ZWRlNjMzZTdhOTEwMzg2MDc1ZDZmNWQyOTA4ZTFjZDA5YTU4ZTFlODZkMmRkZmQ5NTJiMzRiNzQ0OGQ1OTZiNDUxN2MxOTE2MDY4NzQ0MjJlNTU4NTE5NDQxOGJlMjVmZjliYmY1MmI1YjQyY2Y2YmQ0ZDRiOTE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1586777040392,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "vi",
+    "languages": ["vi", "en"],
+    "blueprints": []
+  }
+}
