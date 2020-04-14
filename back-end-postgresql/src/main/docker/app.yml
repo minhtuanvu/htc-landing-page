@@ -9,7 +9,7 @@ services:
       - SPRING_DATASOURCE_URL=jdbc:postgresql://landingpage-postgresql:5432/landingPage
       - JHIPSTER_SLEEP=30 # gives time for other services to boot before the application
     ports:
-      - 8080:8080
+      - 8081:8081
   landingpage-postgresql:
     extends:
       file: postgresql.yml
