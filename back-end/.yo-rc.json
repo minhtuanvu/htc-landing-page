@@ -9,7 +9,7 @@
     "baseName": "landingPage",
     "packageName": "vn.net.htc",
     "packageFolder": "vn/net/htc",
-    "serverPort": "8080",
+    "serverPort": "8081",
     "authenticationType": "jwt",
     "cacheProvider": "ehcache",
     "enableHibernateCache": true,
